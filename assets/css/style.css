@@ -112,13 +112,6 @@ section {
   color: #fce138;
 }
 
-.hero-cta {
-
-  flex-wrap: wrap;
-  color: #fce13;
-
-}
-
 .hero-form {
   border: 3px solid #024e76;
   background-color: #fce138;
@@ -172,6 +165,9 @@ section {
 .primary-border {
   border-color: #fce138;
 }
+/* SECTION TITLE STYLES END */
+
+/* WHAT WE DO STYLES */
 
 .secondary-border {
   border-color: #39a6b2;

@@ -227,6 +227,8 @@ section {
   margin-right: 20px;
 }
 
+
+
 .steps h4 {
   font-size: 26px;
   line-height: 1.5;
@@ -260,7 +262,7 @@ section {
 }
 
 .trainer {
-  margin: 0 auto 20px auto;
+  margin: 20px;
   background: #024e76;
   color: #fce138;
   flex: 1;
